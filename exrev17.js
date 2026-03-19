@@ -1,0 +1,1 @@
+//Criar um programa para exibir: Se a nota for maior que 9 "Excelnte". Se a nota etsiver entre 8 e 7 "Ótimo". Se a nota estiver entre 6 e 5 "Bom". Se a nota tiver entre 4 e 2 "Regular". Se a nota for menor que 1 "Ruim".
